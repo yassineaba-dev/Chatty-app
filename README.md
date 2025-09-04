@@ -2,6 +2,10 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+## 🚀 Live Preview
+
+👉 [Click here to view the site](https://chatty-ys.netlify.app)
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
